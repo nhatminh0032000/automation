@@ -18,9 +18,7 @@
     wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
     wf.type = 'text/javascript';
     wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-	})();
+
 </script><style id="jetpack-custom-fonts-css">.wf-active .site-title{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:600}.wf-active html{font-size:81.25%}.wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Source Sans Pro",sans-serif;font-size:18.2px}.wf-active sub, .wf-active sup{font-size:97.5%}.wf-active small{font-size:97.5%}.wf-active big{font-size:162.5%}.wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-size:130%}.wf-active button, .wf-active html input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-size:15.6px}.wf-active .navigation-main li{font-size:14.3px}.wf-active .entry-meta{font-size:16.9px}.wf-active .gallery-caption{font-size:16.9px}.wf-active article.comment{font-size:18.2px}.wf-active .comment-meta{font-size:15.6px}.wf-active .widget{font-size:16.9px}.wf-active .entry-title{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:600}.wf-active .entry-content h1, .wf-active .entry-content h2, .wf-active .entry-content h3, .wf-active .entry-content h4, .wf-active .entry-content h5, .wf-active .entry-content h6{font-weight:600;font-style:normal}.wf-active .entry-content h1, .wf-active .entry-content h2{font-style:normal;font-weight:600}.wf-active .entry-content h3{font-style:normal;font-weight:600}.wf-active .entry-content h4, .wf-active .entry-content h5{font-style:normal;font-weight:600}.wf-active .page-header .page-title{font-style:normal;font-weight:600}.wf-active #reply-title, .wf-active .comments-title, .wf-active .nocomments{font-style:normal;font-weight:600}.wf-active .widget-title{font-style:normal;font-weight:600}</style>
 <meta name="google-site-verification" content="VKhofq-4fxS6aEo261UeI8gyX6Dz6xaAXQWvVKV8cOA" />
 <meta name="p:domain_verify" content="7ec44b13e92d11a25c62d26c8152eea0" />
