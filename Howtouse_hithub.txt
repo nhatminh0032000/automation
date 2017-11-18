@@ -3,6 +3,3 @@ Git status
 Git add * => Acccept all strange files
 Git commit -m "comment" => Commit all files into local
 Git push => Push all file into git site internet
-
-swicth to new branch
-Git checkout origin/ten-branch -b ten-branch
